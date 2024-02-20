@@ -1,0 +1,33 @@
+.meha{
+    background-color:aquamarine
+    }
+    .tini{
+        border-color: black;
+    }
+    table{
+        border-color: black;
+        border: 1px solid;
+        margin: auto;
+    
+    }
+    tr{
+        border-color: b;
+        border: 1px solid;
+        padding: 10px;
+    }
+    th{
+        border: 1px solid;
+        border-color: black;
+        padding: 10px;
+    }
+    .rae{
+        margin: auto;
+    }
+    h3{
+    text-align: center;
+    }
+    td{
+        border: 1px solid;
+        border-color:b;
+        padding: 10px;
+    }

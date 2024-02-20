@@ -1,0 +1,56 @@
+.bless{
+    background-color: red;
+    
+}
+.sm{
+    background-color: rgb(228, 180, 163);
+    width: 450px;
+    height: 500px;
+    text-align: center;
+    
+}
+.nina{
+    width: 350px;
+    height: 295px;
+}
+.lee{
+    padding-left: 350px;
+    padding-top: 50px;
+}
+body{
+    background-color:darkblue ;
+}
+.talia{
+    color: black;
+    padding-top: 20px;
+    text-align: center;
+}
+.lato{
+    height: 700px;
+    width: 500px;
+    background-color: rgb(230, 237, 240);
+    margin: auto;
+}
+table{
+    border-color: black;
+    border: 1px solid;
+    margin: auto;
+}
+tr{
+    border-color: b;
+    border: 1px solid;
+    padding: 10px;
+}
+th{
+    border: 1px solid;
+    border-color: black;
+    padding: 10px;
+}
+td{
+    border: 1px solid;
+    border-color: black;
+    padding: 10px;
+}
+.blessy{
+    background-color: brown;
+}

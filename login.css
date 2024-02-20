@@ -1,0 +1,50 @@
+.mia{
+    height: 500px;
+    width: 400px;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    margin: auto;
+    padding-left:30px;
+}
+.sia{
+    text-align: center;
+    font-weight: 8px;
+    padding-top:40px ;
+    padding-bottom: 20px;
+}
+.ria{
+    background-color:  palevioletred;
+    padding-top: 45px;
+    
+}
+.dog{
+    width: 310px;
+    height: 45px;
+    margin-bottom: 20px;
+    font-size: larger;
+    border-radius: 2px;
+    padding: auto;
+    margin-left: 35px;
+    background-color: palevioletred;
+    color: white;
+    
+}
+.dog :hover{
+    background-color: deeppink;
+}
+.zia{
+    margin-left: 138px;
+    font-style: oblique;
+}
+.pia{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 20px;
+    font-size: larger;
+    border-radius: 2px;
+    padding: auto;
+    margin-left: 35px;
+}
+
+
+
