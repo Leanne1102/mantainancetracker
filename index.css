@@ -1,0 +1,24 @@
+body{
+    background-image:url('photo-1599302592205-d7d683c83eea.avif') ;
+}
+.gray{
+    width: 800px;
+    margin: auto;
+    margin-top: 200px;
+    color: black;
+    font-family: cursive;
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+button{
+    margin: auto;
+    height: 50px;
+    font-weight: 200px;
+    font-family: cursive;
+    border-radius: 15px;
+    background-color: palevioletred;
+    text-decoration: none;
+}
