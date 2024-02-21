@@ -1,6 +1,14 @@
 .bless{
-    background-color: red;
-    
+    background-color: palevioletred;
+    margin: auto;
+    height: 50px;
+    font-weight: 200px;
+    font-family: cursive;
+    border-radius: 15px;
+    width: 100px;
+}
+.bless :hover{
+    background-color: deeppink;
 }
 .sm{
     background-color: rgb(228, 180, 163);
@@ -12,13 +20,16 @@
 .nina{
     width: 350px;
     height: 295px;
+    border-radius: 15px;
+    padding: 20px;
+    padding-bottom: 0px;
 }
 .lee{
     padding-left: 350px;
     padding-top: 50px;
 }
 body{
-    background-color:darkblue ;
+    background-color:palevioletred ;
 }
 .talia{
     color: black;
