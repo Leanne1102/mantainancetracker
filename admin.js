@@ -1,13 +1,19 @@
 function dag(){
-    var peach = localStorage.getItem("complaints")
-    console.log(peach)
-     document.getElementById("smith").innerHTML = peach
+    var ls = localStorage.getItem("dog")
+    console.log(ls)
+    var json = JSON.parse(ls)
+    console.log(json)
+    var lea = document.getElementById("leah")
+    for (var dog = 0;dog<json.length;dog++){
+        var ro= lea.insertRow()
+        var cell1 = ro.insertCell()
+        cell1.innerHTML=json[dog].sender
+        var cell2 = ro.insertCell()
+        cell2.innerHTML=json[dog].complaint
+        var cell3 = ro.insertCell()
+        cell3.innerHTML=json[dog].status
+    
+
+        
     }
-    function muhi(){
-        var smith = document.getElementById("muhire")
-        var row = smith.insertRow()
-        var cell1 = row.insertCell()
-        cell1.innerHTML = "Leanne"
-        var cell2 = row.insertCell() 
-        cell2.innerHTML = "0708308699"
     }

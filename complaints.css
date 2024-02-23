@@ -65,3 +65,20 @@ td{
 .blessy{
     background-color: brown;
 }
+button{
+    float: right;
+    margin-right: 100px;
+    margin-bottom: 40px;
+    width: 310px;
+    height: 45px;
+    margin-bottom: 20px;
+    font-size: larger;
+    border-radius: 2px;
+    padding: auto;
+    background-color: palevioletred;
+    color: white;
+    
+}
+a {
+    text-decoration: none;
+}
